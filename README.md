@@ -1,4 +1,4 @@
-# Webpack Init
+# TODO app
 Esta es la configuracion inicial para crear aplicaciones con webpack
 
 
